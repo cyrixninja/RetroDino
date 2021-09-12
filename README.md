@@ -4,15 +4,15 @@
 Dinosaurs are a group of reptiles that have lived on Earth for about 245 million years. For over 130 million years, dinosaurs dominated life on land. They came in every shape and size, from feathery little carnivores the size of a pigeon to titans that stretched over 120 feet in length. But dinosaurs did far more than merely inhabit prehistoric floodplains, deserts and forests. Unbeknownst to them, dinosaurs permanently altered the face of our planet.
 This helped us to rediscover these creatures and build something memorable
 ## What it does
-##✅Build a old retro windows operating system
+## ✅Build a old retro windows operating system
 ![Alt text](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/650/001/datas/gallery.jpg)
-##✅ Dinosaurs based games
+## ✅ Dinosaurs based games
 ![Alt text](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/649/958/datas/gallery.jpg)
-##✅ Dinosaurs based video(Dinosaur 101)
+## ✅ Dinosaurs based video(Dinosaur 101)
 ![Alt text](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/650/064/datas/gallery.jpg)
-##✅ Add augmented reality 
+## ✅ Add augmented reality 
 ![Alt text](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/649/953/datas/gallery.jpg)
-##✅ Dinosaurs information using Twilio API 
+## ✅ Dinosaurs information using Twilio API 
 ![Alt text](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/649/956/datas/gallery.jpg)
 
 ## How we built it
